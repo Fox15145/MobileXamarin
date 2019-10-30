@@ -1,0 +1,10 @@
+/Users/apple/Projects/RssReader/RssReader/bin/Release/RssReader.dll
+/Users/apple/Projects/RssReader/RssReader/bin/Release/SQLite-net.dll
+/Users/apple/Projects/RssReader/RssReader/bin/Release/SQLitePCLRaw.batteries_green.dll
+/Users/apple/Projects/RssReader/RssReader/bin/Release/SQLitePCLRaw.batteries_v2.dll
+/Users/apple/Projects/RssReader/RssReader/bin/Release/SQLitePCLRaw.core.dll
+/Users/apple/Projects/RssReader/RssReader/bin/Release/SQLite-net.xml
+/Users/apple/Projects/RssReader/RssReader/obj/Release/RssReader.csprojAssemblyReference.cache
+/Users/apple/Projects/RssReader/RssReader/obj/Release/RssReader.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/RssReader/RssReader/obj/Release/RssReader.csproj.CopyComplete
+/Users/apple/Projects/RssReader/RssReader/obj/Release/RssReader.dll
