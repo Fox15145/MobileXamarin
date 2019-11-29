@@ -50,7 +50,7 @@ namespace RssReader.Droid.Activities
             RssArticles_textView.Text = rssSource.Title; 
             RefresDataListView(url);
 
-            articles_swipeRefreshLayout.Refresh += async (sender, e) =>  { 
+            articles_swipeRefreshLayout.Refresh += async (sender, e) => { 
             //await load(url);
                 articles_swipeRefreshLayout.Refreshing = false; 
                 };

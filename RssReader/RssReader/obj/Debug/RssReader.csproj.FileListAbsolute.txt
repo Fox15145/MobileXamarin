@@ -10,3 +10,13 @@
 /Users/apple/Projects/RssReader/RssReader/obj/Debug/RssReader.csproj.CopyComplete
 /Users/apple/Projects/RssReader/RssReader/obj/Debug/RssReader.dll
 /Users/apple/Projects/RssReader/RssReader/obj/Debug/RssReader.pdb
+C:\Users\david.lhotellier\Documents\GitHub\MobileXamarin\RssReader\RssReader\bin\Debug\RssReader.dll
+C:\Users\david.lhotellier\Documents\GitHub\MobileXamarin\RssReader\RssReader\bin\Debug\RssReader.pdb
+C:\Users\david.lhotellier\Documents\GitHub\MobileXamarin\RssReader\RssReader\bin\Debug\SQLite-net.dll
+C:\Users\david.lhotellier\Documents\GitHub\MobileXamarin\RssReader\RssReader\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\david.lhotellier\Documents\GitHub\MobileXamarin\RssReader\RssReader\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\david.lhotellier\Documents\GitHub\MobileXamarin\RssReader\RssReader\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\david.lhotellier\Documents\GitHub\MobileXamarin\RssReader\RssReader\bin\Debug\SQLite-net.xml
+C:\Users\david.lhotellier\Documents\GitHub\MobileXamarin\RssReader\RssReader\obj\Debug\RssReader.csprojResolveAssemblyReference.cache
+C:\Users\david.lhotellier\Documents\GitHub\MobileXamarin\RssReader\RssReader\obj\Debug\RssReader.dll
+C:\Users\david.lhotellier\Documents\GitHub\MobileXamarin\RssReader\RssReader\obj\Debug\RssReader.pdb
