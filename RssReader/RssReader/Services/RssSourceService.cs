@@ -1,5 +1,4 @@
-﻿using System;
-using RssReader.Utils;
+﻿using RssReader.Utils;
 
 namespace RssReader.Services
 {

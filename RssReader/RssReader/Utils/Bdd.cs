@@ -1,5 +1,4 @@
-﻿using System;
-using SQLite;
+﻿using SQLite;
 using System.Collections.Generic;
 using RssReader.Models;
 
