@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.fox15145.rssreader" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
-	<uses-sdk android:minSdkVersion="15" />
+	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="30" />
 	<uses-permission android:name="android.permission.REBOOT" />
 	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 	<uses-permission android:name="android.permission.INTERNET" />
-	<application android:label="RssReader" android:theme="@style/AppTheme"></application>
+	<application android:label="RssReader" android:theme="@style/AppTheme" android:icon="@mipmap/twotone_add_white_24dp"></application>
 </manifest>
